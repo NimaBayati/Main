@@ -13,4 +13,3 @@
     - The client's github repo is private, so I can only present informational graphics that explains my group's work
   - EEC 172: Embedded Systems
     - Original Asteroids Game
-  - More to come!
