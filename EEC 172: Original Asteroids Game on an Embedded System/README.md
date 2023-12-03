@@ -3,7 +3,7 @@
 Course: EEC 172 - Embedded Systems
 
 #### Project Specifications:
-  - Materials: Texus Instruments (TI) Simplelink CC3200 Launchpad, Adafruit 128x128 Oled Breakout Board, TI Code Composer Studio, and TI Pin Mux Tool
+  - Materials: Texas Instruments (TI) Simplelink CC3200 Launchpad, Adafruit 128x128 Oled Breakout Board, TI Code Composer Studio, and TI Pin Mux Tool
   - In the project directory, these files contain my code: main.c, pinmux.c, and Adafruit_OLED.c
   - The core of this lab was to create a program that accesses the web in whatever way we like and incorporate the variety of sensors and devices that we’ve used in the previous labs for input and output.
   - I decided to create my own Asteroids game that uses Amazon Web Services to store game state (eg. the high score) that can then be retrieved later.
