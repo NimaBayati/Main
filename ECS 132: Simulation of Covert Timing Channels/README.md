@@ -1,5 +1,7 @@
 ## Simulation of Covert Timing Channels
 
+Course: ECS 132 - Probability and Statistics in Computer Science
+
 #### Project Specifications:
   - As described by the instructions in the jupyter notebook, I was tasked with simulating the transmission of a secret message through the altering of inter-packet
 delay times of buffered packets from some theoretical network traffic.
